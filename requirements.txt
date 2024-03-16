@@ -1,0 +1,5 @@
+moviepy
+openai
+streamlit
+st_paywall
+streamlit_option_menu
